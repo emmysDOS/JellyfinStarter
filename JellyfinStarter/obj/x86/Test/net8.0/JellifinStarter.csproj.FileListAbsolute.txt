@@ -1,0 +1,14 @@
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\bin\x86\Test\net8.0\JellifinStarter.exe
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\bin\x86\Test\net8.0\JellifinStarter.deps.json
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\bin\x86\Test\net8.0\JellifinStarter.runtimeconfig.json
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\bin\x86\Test\net8.0\JellifinStarter.dll
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\bin\x86\Test\net8.0\JellifinStarter.pdb
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.AssemblyInfoInputs.cache
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.AssemblyInfo.cs
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.csproj.CoreCompileInputs.cache
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.dll
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\refint\JellifinStarter.dll
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.pdb
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\JellifinStarter.genruntimeconfig.cache
+C:\Users\Subawoo\source\repos\JellifinStarter\JellifinStarter\obj\x86\Test\net8.0\ref\JellifinStarter.dll
